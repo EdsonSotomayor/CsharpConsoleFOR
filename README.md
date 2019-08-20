@@ -1,0 +1,2 @@
+# CsharpConsoleFOR
+practica de for
